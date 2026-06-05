@@ -2,7 +2,7 @@
 
 Example of a [Preact](https://preactjs.com/) application that can be deployed to **Hostman** without configuration.
 
-:tada: [Demo]()
+:tada: [Demo](https://hostman-cloud-app-example-preact-7fae.hostman.dev/)
 
 :rocket: [Create your Apps](https://hostman.com/my/apps/create)
 
