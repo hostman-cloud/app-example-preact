@@ -1,3 +1,5 @@
+![Preact Logo](https://st.hostman.com/cloud-static/apps-logo/preact.svg)
+
 # Preact
 
 Example of a [Preact](https://preactjs.com/) application that can be deployed to **Hostman** without configuration.
